@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/Alexandre/Desktop/abertura_youtube/media/videos/main/480p15/partial_movie_files/Abertura/3163782288_4270052277_2381069866.mp4'
+file 'file:/Users/Alexandre/Desktop/abertura_youtube/media/videos/main/480p15/partial_movie_files/Abertura/2201830969_2750570120_2381069866.mp4'
+file 'file:/Users/Alexandre/Desktop/abertura_youtube/media/videos/main/480p15/partial_movie_files/Abertura/2201830969_2148686299_3056276105.mp4'
+file 'file:/Users/Alexandre/Desktop/abertura_youtube/media/videos/main/480p15/partial_movie_files/Abertura/2201830969_2846353660_1538260247.mp4'
+file 'file:/Users/Alexandre/Desktop/abertura_youtube/media/videos/main/480p15/partial_movie_files/Abertura/2201830969_1488800187_3708996559.mp4'
+file 'file:/Users/Alexandre/Desktop/abertura_youtube/media/videos/main/480p15/partial_movie_files/Abertura/2201830969_1598209815_2564865437.mp4'
+file 'file:/Users/Alexandre/Desktop/abertura_youtube/media/videos/main/480p15/partial_movie_files/Abertura/2201830969_1152718458_3031695820.mp4'
+file 'file:/Users/Alexandre/Desktop/abertura_youtube/media/videos/main/480p15/partial_movie_files/Abertura/2201830969_1642285929_283240127.mp4'
+file 'file:/Users/Alexandre/Desktop/abertura_youtube/media/videos/main/480p15/partial_movie_files/Abertura/2201830969_1117081818_2098942806.mp4'
+file 'file:/Users/Alexandre/Desktop/abertura_youtube/media/videos/main/480p15/partial_movie_files/Abertura/2201830969_1152718458_3447021159.mp4'
